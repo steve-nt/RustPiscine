@@ -1,0 +1,1 @@
+This is a repository with the execrises from Rust Piscine From Zone 01

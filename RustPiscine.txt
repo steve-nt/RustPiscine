@@ -112,15 +112,7 @@ border_cross
 events
 macro_map
 
-quest-10-rust
-
-intra
->
-athens
->
-div-01
->
-piscine-rust— features
+quest-10-rust— features
 closures
 sales
 adding

@@ -1,0 +1,1 @@
+/home/steven/Desktop/piscine-rust/matrix_ops/target/debug/libmatrix_ops.rlib: /home/steven/Desktop/piscine-rust/matrix/src/lib.rs /home/steven/Desktop/piscine-rust/matrix_ops/src/lib.rs /home/steven/Desktop/piscine-rust/scalar/src/lib.rs

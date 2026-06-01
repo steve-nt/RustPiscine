@@ -1,0 +1,1 @@
+/home/steven/Desktop/piscine-rust/lalgebra_scalar/target/debug/lalgebra_scalar: /home/steven/Desktop/piscine-rust/lalgebra_scalar/src/lib.rs /home/steven/Desktop/piscine-rust/lalgebra_scalar/src/main.rs

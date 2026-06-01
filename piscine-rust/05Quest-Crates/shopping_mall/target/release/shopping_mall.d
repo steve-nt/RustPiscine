@@ -1,0 +1,1 @@
+/home/steven/Desktop/piscine-rust/shopping_mall/target/release/shopping_mall: /home/steven/Desktop/piscine-rust/shopping_mall/src/lib.rs /home/steven/Desktop/piscine-rust/shopping_mall/src/main.rs /home/steven/Desktop/piscine-rust/shopping_mall/src/mall.rs

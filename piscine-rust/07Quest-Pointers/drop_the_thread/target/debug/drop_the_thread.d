@@ -1,0 +1,1 @@
+/home/steven/Desktop/piscine-rust/drop_the_thread/target/debug/drop_the_thread: /home/steven/Desktop/piscine-rust/drop_the_thread/src/lib.rs /home/steven/Desktop/piscine-rust/drop_the_thread/src/main.rs

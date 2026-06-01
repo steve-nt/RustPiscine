@@ -1,0 +1,1 @@
+/home/steven/Desktop/piscine-rust/vector_operations/target/debug/vector_operations: /home/steven/Desktop/piscine-rust/vector_operations/src/lib.rs /home/steven/Desktop/piscine-rust/vector_operations/src/main.rs

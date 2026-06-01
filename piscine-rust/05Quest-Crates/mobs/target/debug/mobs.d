@@ -1,0 +1,1 @@
+/home/steven/Desktop/piscine-rust/mobs/target/debug/mobs: /home/steven/Desktop/piscine-rust/mobs/src/lib.rs /home/steven/Desktop/piscine-rust/mobs/src/main.rs /home/steven/Desktop/piscine-rust/mobs/src/mobs/boss.rs /home/steven/Desktop/piscine-rust/mobs/src/mobs/member.rs /home/steven/Desktop/piscine-rust/mobs/src/mobs.rs

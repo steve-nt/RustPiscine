@@ -1,0 +1,1 @@
+/home/steven/Desktop/piscine-rust/invert_sentence/target/debug/invert_sentence: /home/steven/Desktop/piscine-rust/invert_sentence/src/lib.rs /home/steven/Desktop/piscine-rust/invert_sentence/src/main.rs

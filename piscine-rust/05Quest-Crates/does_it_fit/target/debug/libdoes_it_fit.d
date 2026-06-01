@@ -1,0 +1,1 @@
+/home/steven/Desktop/piscine-rust/does_it_fit/target/debug/libdoes_it_fit.rlib: /home/steven/Desktop/piscine-rust/does_it_fit/src/areas_volumes.rs /home/steven/Desktop/piscine-rust/does_it_fit/src/lib.rs

@@ -1,0 +1,1 @@
+/home/steven/Desktop/piscine-rust/diamond_creation/target/debug/diamond_creation: /home/steven/Desktop/piscine-rust/diamond_creation/src/lib.rs /home/steven/Desktop/piscine-rust/diamond_creation/src/main.rs
